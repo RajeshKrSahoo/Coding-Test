@@ -1,0 +1,4 @@
+,time,n,0,1,2,3,4,5,6,7
+2074,2019-04-24 17:00:45,148,botID1212,botinstance2323,task000,None,mailslot_create: setsockopt(MCAST_ADD) failed - EDC8116I Address not available.,,,
+2075,2019-04-24 17:00:45,148,botID1212,botinstance2323,task000,None,mailslot_create: setsockopt(MCAST_ADD) failed - EDC8116I Address not available.,,,
+2080,2019-04-24 17:00:45,148,botID1212,botinstance2323,task000,None,mailslot_create: setsockopt(MCAST_ADD) failed - EDC8116I Address not available.,,,
